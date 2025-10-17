@@ -9,7 +9,7 @@ This portfolio showcases my growth across five key employability areas:
 - **Workplace Etiquette**
 
 Each section includes both **evidence of completion** and a **reflection using the STAR Technique (Situation, Task, Action, Result)**.  
-Through these modules, I developed essential workplace competencies that will support my transition from academic study to a professional ICT career.
+Through these modules, I developed essential workplace competencies that will support my transition from academic study to a professional ICT career. By reflecting on these experiences, I’ve built a foundation not only in technical knowledge but in the human skills that define professional success—communication, integrity, and relationship-building
 
 ---
 
@@ -64,7 +64,7 @@ This simulated a real interview and tested how I presented myself, answered ques
 
 **Action:** I prepared by researching questions, setting up a professional environment, and practicing responses using the STAR method. I maintained eye contact and spoke clearly during the recording.
 
-**Result:** The exercise built my self-confidence, highlighted my strengths in clarity and tone, and identified areas to improve. This practice prepared me for real interviews.
+**Result:** The exercise built my self-confidence, highlighted my strengths in clarity and tone, and identified areas to improve. The self-assessment helped me see that while my structure was strong, I could improve by adding specific outcomes—like ‘my solution reduced project delays by 2 days.’ This insight will shape how I prepare for real interviews.
 
 ---
 
@@ -82,7 +82,44 @@ The module taught:
 
 **Task:** I needed to demonstrate understanding of networking principles and strategies for developing meaningful relationships.
 
-**Action:** I engaged in module activities, learned how to approach professionals, and understood how to follow up after networking events. I created a professional LinkedIn profile to connect with peers.
+**Action:** I engaged in module activities, learned how to approach professionals, and understood how to follow up after networking events. I created a professional LinkedIn profile to connect with peers. After the module, I updated my LinkedIn profile with a professional photo and summary, and sent connection requests to three CPUT ICT alumni with personalised messages referencing shared interests
 
-**Result:** I achieved 100/100, demonstrating a strong grasp of networking. I now understand that genuine relationships create lasting opportunities in my career.
+**Result:** I achieved 100/100, demonstrating a strong grasp of networking. I now understand that genuine relationships create lasting opportunities in my career. This wasn’t just about passing a quiz—it was my first step toward building a living network. I now see networking as an ongoing practice, not a one-time task.
+
+## 🧭 WORKPLACE ETIQUETTE
+
+### **Evidence**
+I completed the **Workplace Etiquette** module with a final mark of **100/100**.  
+The module covered:
+- Workplace professionalism  
+- Punctuality and attendance  
+- Confidentiality  
+- Handling difficult communications  
+- Responsible device use  
+
+### **Reflection (STAR Technique)**
+**S – Situation:**  
+This module prepared me to handle real workplace scenarios with professionalism and respect.  
+
+**T – Task:**  
+I needed to apply workplace etiquette principles that support teamwork, respect, and efficiency.  
+
+**A – Action:**  
+I reflected on professional standards, learned how to manage time responsibly, and practiced professional behavior through realistic examples.  
+
+**R – Result:**  
+I achieved **100/100**, showing that I can maintain professionalism, integrity, and responsibility in any work environment.  More importantly, I now see etiquette as daily practice of integrity—essential for earning trust in any ICT team. 
+
+**Conclusion**
+This portfolio captures my journey from theory to professional readiness. I now enter the ICT job market not only with technical skills but with the communication clarity, interview confidence, networking mindset, and workplace integrity that employers value. I am ready to contribute meaningfully from day one. 
+
+### **Key Takeaways**
+-  Effective communication builds trust and clarity.  
+-  Preparation is the key to interview success.  
+-  Networking creates career opportunities through genuine relationships.  
+-  Workplace etiquette defines professional integrity.  
+-  Reflection promotes growth and lifelong learning.
+
+
+
 
