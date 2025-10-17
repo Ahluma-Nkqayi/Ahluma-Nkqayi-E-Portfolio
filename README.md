@@ -16,26 +16,17 @@ Through these modules, I developed essential workplace competencies that will su
 ## 🧩 BUSINESS COMMUNICATION
 
 ### **Evidence**
-I completed the **Business Communication** module with a final mark of **100/100**.  
-The module focused on:
-- Professional communication strategies  
-- Verbal and non-verbal communication  
-- Tone and formality  
-- Effective listening  
-- Email and meeting etiquette  
+I completed the Business Communication module with a final mark of 100/100. The module focused on professional communication strategies, including the purpose of business communication, verbal and non-verbal communication, tone and formality, effective listening, and professional email and virtual meeting etiquette. 
+I achieved full completion within the allocated time, engaging with each scenario and quiz question to demonstrate my understanding of clear, concise, and professional communication.
 
 ### **Reflection (STAR Technique)**
-**S – Situation:**  
-During the Work Readiness training, I was required to complete the Business Communication assessment module, which tested my understanding of workplace communication.
+**Situation:** During the Work Readiness training, I was required to complete the Business Communication assessment module, designed to assess how effectively I could apply communication principles in real workplace situations.
 
-**T – Task:**  
-My goal was to demonstrate comprehension and application of communication theory by answering scenario-based questions showing professional tone and clarity.
+**Task:** My task was to demonstrate comprehension and application of communication theory by answering scenario-based questions showing the ability to distinguish between formal and informal communication and recognize the role of tone and body language.
 
-**A – Action:**  
-I approached each question carefully, analyzing tone, structure, and body language. I reflected on my habits to improve how I communicate and respond professionally.
+**Action:** I approached each question carefully, analyzing how word choice, tone, and structure could influence professional relationships. I also reflected on my own communication habits, ensuring clarity and professionalism.
 
-**R – Result:**  
-I achieved **100/100**, demonstrating strong communication skills. I can now compose professional emails, listen actively, and express ideas clearly in the workplace.
+**Result:** I achieved a perfect score of 100/100, reflecting a strong grasp of effective communication principles. This experience prepared me to craft professional emails, actively listen during meetings, and express ideas clearly in the workplace.
 
 ---
 
@@ -50,17 +41,13 @@ This module covered:
 - Answering behavioral questions  
 
 ### **Reflection (STAR Technique)**
-**S – Situation:**  
-I participated in this module to strengthen my confidence and communication during interviews.  
+**Situation:** I participated in the Interview Skills module to improve my ability to prepare for and perform in professional interviews.
 
-**T – Task:**  
-I needed to show that I could prepare effectively and answer interview questions professionally using structured techniques.  
+**Task:** My goal was to demonstrate mastery of interview techniques and understand how to respond confidently to questions using the CAR method.
 
-**A – Action:**  
-I practiced the CAR method, rehearsed my answers, researched company profiles, and prepared responses for “Tell me about yourself” and “What are your strengths?”  
+**Action:** I reviewed learning material, practiced common questions, and used the CAR framework to structure responses about past experiences. I rehearsed my introduction and refined answers about strengths and weaknesses.
 
-**R – Result:**  
-I achieved **80/100** and learned how to answer confidently and clearly. The module improved my preparation techniques and interview presence.
+**Result:** I achieved 80/100 and learned valuable lessons on preparation, self-awareness, and pacing during interviews. I now approach interviews with greater confidence and professional presence.
 
 ---
 
@@ -71,17 +58,13 @@ I participated in a **Mock Interview video recording** as part of the training.
 This simulated a real interview and tested how I presented myself, answered questions, and maintained professionalism.
 
 ### **Reflection (STAR Technique)**
-**S – Situation:**  
-The mock interview simulated a realistic interview scenario where I could practice professional communication.  
+**Situation:** The mock interview simulated a real job interview scenario where I could test my communication and composure.
 
-**T – Task:**  
-I was required to demonstrate professionalism, confidence, and effective non-verbal communication while answering interview questions.  
+**Task:** My objective was to demonstrate professionalism, confidence, and effective non-verbal communication while answering questions clearly.
 
-**A – Action:**  
-I prepared responses using the STAR technique, set up a quiet and well-lit environment, maintained good posture, and spoke confidently.  
+**Action:** I prepared by researching questions, setting up a professional environment, and practicing responses using the STAR method. I maintained eye contact and spoke clearly during the recording.
 
-**R – Result:**  
-The mock interview improved my confidence and presentation skills. I learned to handle nerves, structure my answers, and maintain professionalism throughout.
+**Result:** The exercise built my self-confidence, highlighted my strengths in clarity and tone, and identified areas to improve. This practice prepared me for real interviews.
 
 ---
 
@@ -95,14 +78,11 @@ The module taught:
 - How to build authentic professional connections  
 
 ### **Reflection (STAR Technique)**
-**S – Situation:**  
-The module highlighted the importance of creating professional relationships for career success.  
+**Situation:** This module taught me the value of networking in long-term career success.
 
-**T – Task:**  
-I was required to understand networking principles and identify effective strategies for building connections.  
+**Task:** I needed to demonstrate understanding of networking principles and strategies for developing meaningful relationships.
 
-**A – Action:**  
-I participated in all activities, learned to initiate professional conversations, and built a LinkedIn profile to connect with industry professionals.  
+**Action:** I engaged in module activities, learned how to approach professionals, and understood how to follow up after networking events. I created a professional LinkedIn profile to connect with peers.
 
-**R – Result:**  
-I achieved **100/100**, developing a strong understanding of networking. I now recognize that genuine relationships create long-term
+**Result:** I achieved 100/100, demonstrating a strong grasp of networking. I now understand that genuine relationships create lasting opportunities in my career.
+
